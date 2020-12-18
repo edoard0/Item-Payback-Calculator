@@ -1,1 +1,1 @@
-web: gunicorn Payback_Application:server
+web: gunicorn Payback_Application:server --preload
