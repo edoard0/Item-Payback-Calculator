@@ -1,1 +1,1 @@
-web: Payback_Application.py:server
+web: Payback_Application.py: server
