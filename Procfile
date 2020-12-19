@@ -1,1 +1,1 @@
-web: gunicorn Payback_Application:server -t 120
+web: Payback_Application.py:server
