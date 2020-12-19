@@ -86,7 +86,7 @@ def generate_graph(obj,cost,benefit,frequency_,period_):
        
 #run_app
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(debug=True)
 
 
 
