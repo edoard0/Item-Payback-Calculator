@@ -1,1 +1,1 @@
-web: gunicorn Payback_Application:server --preload
+web: gunicorn Payback_Application:server -t 120
