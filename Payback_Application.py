@@ -13,6 +13,7 @@ from Payback_Calculator import Payback_Tracker
 
 #create app
 app = dash.Dash(__name__,)
+server=app.server
 
 #layout
 app.layout = html.Div(style={'font-family': 'monospace','background-color':'#f2f2f'},children=[
