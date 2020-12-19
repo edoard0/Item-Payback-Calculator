@@ -1,1 +1,1 @@
-web: gunicorn Payback_Application:server
+web: Payback_Application.py:server
